@@ -300,7 +300,7 @@ button {
 /* COMMON */
 
 .bgimg {
-  background: url("/assets/images/mycoffee.jpeg") top center / cover no-repeat;
+  background: url("./assets/images/mycoffee.jpeg") top center / cover no-repeat;
   min-height: 75%;
 }
 
