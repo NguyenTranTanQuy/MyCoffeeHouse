@@ -2,6 +2,8 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+  letter-spacing: normal;
+  word-spacing: normal;
 }
 
 footer,
@@ -14,7 +16,7 @@ html {
   height: 100%;
   font-family: "Inconsolata", monospace;
   font-size: 15px;
-  line-height: 1.5;
+  line-height: 1.6;
 }
 
 html {
@@ -231,7 +233,7 @@ button {
 }
 
 .wide {
-  letter-spacing: 4px;
+  letter-spacing: 2px;
 }
 
 .panel {
